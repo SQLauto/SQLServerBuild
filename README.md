@@ -1,4 +1,4 @@
-#SQLServerBuild
+# SQLServerBuild
 
 ### Install-SQLServer.ps1
 
